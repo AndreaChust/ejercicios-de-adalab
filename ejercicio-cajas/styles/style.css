@@ -1,0 +1,42 @@
+:root {
+    --color-main: rgb(0, 183, 255);
+    --color-secondary: pink;
+    --color-text: grey; 
+}
+
+.Logo {
+    width: 100px;
+}
+
+.header {
+    background-color: coral;
+    padding: 15px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.list {
+    display: flex;
+}
+
+
+.hero {
+    background-image: url(../images/Captura\ de\ pantalla\ 2025-02-03\ 105249.jpg);
+    background-size: cover ;
+}
+
+.item:hover {
+    color: var(--color-main)
+}
+
+.article {
+    border: 5px solid lightcoral;
+    width: 50%;
+}
+
+.section {
+    display: flex;
+}

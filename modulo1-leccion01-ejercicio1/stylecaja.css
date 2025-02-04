@@ -1,0 +1,29 @@
+* div {
+    size: 100px;
+}
+
+main {
+    font-size: medium;
+    color: black
+}
+
+.cajas {
+    display: inline-block;
+    background-color: yellow;
+}
+
+.displays {
+    background-color: green;
+    box-sizing: border-box;
+    border: 60px solid grey;
+    }
+
+.correcto {
+    display: inline;
+    background-color:  blue;
+}
+
+figure {
+    margin: 0;
+    size: 40 px;
+}
