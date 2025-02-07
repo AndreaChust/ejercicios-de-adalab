@@ -1,0 +1,34 @@
+.hija1 {
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+    padding: 30px;
+    background-color: lightcoral;
+    /* right: 100px;
+    bottom: 50px; */
+}
+
+.hija2 {
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+    padding: 30px;
+    background-color: lightblue;
+    /* left: 150px;
+    top: 320px; */
+}
+
+.hija3 {
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+    padding: 30px;
+    background-color: lightgreen;
+    /* right: 180px;
+    top: 240px; */
+    
+}
+
+.madre {
+    right: 100px;
+}

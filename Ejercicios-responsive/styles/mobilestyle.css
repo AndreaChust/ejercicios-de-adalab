@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    flex-direction: column;
+    background-color: yellowgreen;
+}
+
+.title1 {
+    background-color: lightgreen;
+    color: lightyellow;
+}
+
+h2 {
+    color: green;
+}

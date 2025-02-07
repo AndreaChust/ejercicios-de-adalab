@@ -1,16 +1,31 @@
 .container {
     width: 800px;
+    height: 400px;
     background-color: lightcoral;
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    gap: 5px;
 }
 
 .item {
     width: 200px;
-    height: 600px;
+    height: 100px;
     background-color: lightblue;
+    border: 1px solid blue;
 }
 
-/*completar con la clase/*
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+    height: 100%;
+    gap: 5px;
+}
+
+.pic {
+    height: 100%;
+}

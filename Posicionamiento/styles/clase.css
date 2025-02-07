@@ -1,0 +1,33 @@
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 14px;
+    position: sticky;
+    top: 0;
+}
+
+.nav-list {
+    display: flex;
+    gap: 10px;
+}
+
+main {
+    height: 150vh;
+    background-color: beige;
+}
+
+.consent {
+    background-color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    right: 60px;
+}
+
+.profile-card {
+    width: 100px;
+    /* completar con la video-clase*/
+}
+
